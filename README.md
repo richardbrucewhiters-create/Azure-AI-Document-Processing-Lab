@@ -73,5 +73,6 @@ This lab shows understanding of:
 - Secure configuration using environment variables
 - Practical document processing automation
 
+🧾 Commit Message
 - Initial Azure AI document processing lab using Functions and Document Intelligence
 
