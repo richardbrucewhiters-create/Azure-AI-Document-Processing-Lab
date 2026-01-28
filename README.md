@@ -72,3 +72,6 @@ This lab shows understanding of:
 - Integration of AI services into serverless workflows
 - Secure configuration using environment variables
 - Practical document processing automation
+
+- Initial Azure AI document processing lab using Functions and Document Intelligence
+
